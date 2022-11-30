@@ -1,8 +1,5 @@
-# Environments
-.env/
-.venv/
+# Environment
 env/
-venv/
 
 # VSCode Folder
 .vscode/*
